@@ -10,4 +10,4 @@ My thesis applies Deep Image Prior to reconstruct phase diagrams of electrochemi
 
 ### Contact
 
-santiafonso03@gmail.com · [Codeforces](https://codeforces.com/profile/santiafonso03)
+santiafonso03@gmail.com
