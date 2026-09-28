@@ -11,3 +11,5 @@ My thesis applies Deep Image Prior to reconstruct phase diagrams of electrochemi
 ### Contact
 
 santiafonso03@gmail.com
+
+https://www.linkedin.com/in/santiago-afonso-osorio-a3a3a0286
